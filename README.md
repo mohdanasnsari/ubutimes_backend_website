@@ -1,4 +1,4 @@
-# ubutimes_backend_website
+# Django_backend_website
 Python Django based Backend website for news &amp; media.
 
 Language - Python
